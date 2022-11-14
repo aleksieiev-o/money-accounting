@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "money-accounting-6f010": {
+      "hosting": {
+        "money-accounting": [
+          "money-accounting-6f010"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "money-accounting-6f010"
+  }
+}
